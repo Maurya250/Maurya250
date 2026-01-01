@@ -34,14 +34,6 @@ Currently working on **100 Days of DevOps – real-world, job-ready projects** t
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Maurya250&show_icons=true&theme=radical" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurya250&layout=compact&theme=radical" height="160" />
-</p>
-
----
-
 ### 🧩 My DevOps Roadmap
 ```yaml
 Current Focus:
